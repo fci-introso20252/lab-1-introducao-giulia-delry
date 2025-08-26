@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-giulia-delry/exemplos
+/workspaces/lab-1-introducao-giulia-delry
+/workspaces/lab-1-introducao-giulia-delry/docs
+/workspaces/lab-1-introducao-giulia-delry/outputs
+/workspaces/lab-1-introducao-giulia-delry
+/workspaces/lab-1-introducao-giulia-delry

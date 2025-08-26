@@ -1,7 +1,7 @@
 # 📝 Relatório do Laboratório 1 - Introdução ao Linux
 
-**Nome:** [Seu nome aqui]  
-**RA:** [Seu RA aqui]  
+**Nome:** Giulia Del Ry Ribeiro
+**RA:** 10723383  
 
 ---
 
