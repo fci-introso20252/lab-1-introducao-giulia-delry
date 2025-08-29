@@ -25,19 +25,19 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
 ```
-[Sua resposta aqui]
+O comando cd, já que tive que transitar constantemente entre os diretórios.
 ```
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
 ```
-[Sua resposta aqui]
+Talvez o comando grep pela tradução da palavra me ser desconhecida.
 ```
 
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
 
 ```
-[Sua resposta aqui]
+Sim.
 ```
 
 ---
@@ -49,21 +49,21 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Liste 3 diferenças principais entre usar Windows e Linux que você notou:**
 
 ```
-1. [Primeira diferença]
-2. [Segunda diferença]
-3. [Terceira diferença]
+1. A interface padrão do Linux é por linha de comando e a do Windows é gráfica.
+2. A separação de diretórios é feita pela \ no Windows e pela / no Linux.
+3. O Linux permite uma customização total e não limitada como o Windows.
 ```
 
 **2. Para tarefas do dia a dia, qual sistema você prefere? Por quê?**
 
 ```
-[Sua resposta aqui]
+No dia a dia, prefiro o Windows por usar uma interface gráfica e mais intuitiva.
 ```
 
 **3. Em que situações o Linux seria mais vantajoso que o Windows?**
 
 ```
-[Sua resposta aqui]
+Em servidores por conta da performance e da estabilidade e para desenvolvimento devido às ferramentas nativas.
 ```
 
 ---
@@ -75,21 +75,21 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Por que é importante para um profissional de Sistemas de Informação conhecer Linux?**
 
 ```
-[Sua resposta aqui]
+Porque o Linux é um dos sistemas operacionais mais usados em infraestrutura de TI, servidores e predomina também no mercado corporativo.
 ```
 
 **2. Como o conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa?**
 
 ```
-[Sua resposta aqui]
+Conhecer comandos Linux dá um maior controle sobre servidores, segurança, usuários e redes, além de poder ajudar a automatizar processos.
 ```
 
 **3. Cite 3 aplicações práticas do Linux no ambiente empresarial:**
 
 ```
-1. [Primeira aplicação]
-2. [Segunda aplicação]
-3. [Terceira aplicação]
+1. Servidores web;
+2. Cloud computing;
+3. Infraestrutura de Rede.
 ```
 
 ---
@@ -101,24 +101,24 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Quantos arquivos você criou no diretório `outputs/`?**
 
 ```
-Total de arquivos: _____
+Total de arquivos: __22___
 ```
 
 **2. Qual foi o tamanho total do diretório `meu_diretorio` que você criou?**
 
 ```bash
 # Use o comando: du -sh meu_diretorio/
-Tamanho: _____
+Tamanho: __40K___
 ```
 
 **3. Liste os 5 comandos que você mais usou durante o laboratório:**
 
 ```
-1. _____
-2. _____
-3. _____
-4. _____
-5. _____
+1. __cd___
+2. __cat___
+3. __ls___
+4. __pwd___
+5. __head___
 ```
 
 ---
@@ -130,13 +130,13 @@ Tamanho: _____
 **1. Você já tinha usado Git antes? Se sim, em que contexto?**
 
 ```
-[Sua resposta aqui]
+Nunca tinha usado antes.
 ```
 
 **2. Qual a importância do versionamento de código para empresas?**
 
 ```
-[Sua resposta aqui - mínimo 3 linhas]
+O versionamento de código é importante para empresas porque garante organização, segurança, colaboração em equipe e automação no desenvolvimento de sistemas e softwares, reduzindo riscos e aumentando a produtividade. Cada alteração feita no código é registrada e se torna mais fácil voltar a versões anteriores em caso de erros ou falhas.
 ```
 
 ---
@@ -148,13 +148,13 @@ Tamanho: _____
 **1. Que tipo de tarefas você poderia automatizar usando comandos Linux?**
 
 ```
-[Sua resposta aqui - cite pelo menos 2 exemplos]
+Eu poderia automatizar relatórios de uso de CPU, memória e disco, além de ter scripts para atualizar pacotes automaticamente. Outra possibilidade seria fazer uma limpeza periódica de arquivos temporários.
 ```
 
 **2. Você consideraria usar Linux como sistema operacional principal? Por quê?**
 
 ```
-[Sua resposta aqui]
+Sim, o Linux parece um ótimo sistema operacional para desenvolvimento, permite total customização, é gratuito e bem seguro e estável.
 ```
 
 ---
@@ -164,13 +164,13 @@ Tamanho: _____
 **O que você achou mais interessante no laboratório?**
 
 ```
-[Sua resposta aqui]
+A autonomia de poder testar e ver na prática os comandos funcionando.
 ```
 
 **O que poderia ser melhorado para próximos labs?**
 
 ```
-[Sua resposta aqui]
+Formulário menos extenso.
 ```
 
 ---
